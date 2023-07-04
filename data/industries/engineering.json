@@ -1,0 +1,4993 @@
+{
+    "data": {
+        "rolesByAliases": [
+            {
+                "id": "aerospace-engineer",
+                "title": "Aerospace Engineer",
+                "roleReviewStatistics": null,
+                "growth": {
+                    "value": 8.4
+                },
+                "salarySuggestion": {
+                    "salary_median": 119999
+                },
+                "specReqs": [
+                    {
+                        "label": "Firearms"
+                    },
+                    {
+                        "label": "Aircraft Structures"
+                    },
+                    {
+                        "label": "Aviation Engineering"
+                    },
+                    {
+                        "label": "Estimating"
+                    },
+                    {
+                        "label": "Trade Skills"
+                    },
+                    {
+                        "label": "MIEAust"
+                    },
+                    {
+                        "label": "Defence Industry"
+                    },
+                    {
+                        "label": "Engineers Australia Membership"
+                    },
+                    {
+                        "label": "Design Development"
+                    },
+                    {
+                        "label": "Defence Projects"
+                    }
+                ]
+            },
+            {
+                "id": "aircraft-maintenance-engineer",
+                "title": "Aircraft Maintenance Engineer",
+                "roleReviewStatistics": {
+                    "total": 17,
+                    "remuneration": "3.3",
+                    "employability": "3.0",
+                    "jobSatisfaction": "3.7",
+                    "workLifeBalance": "3.8",
+                    "diversityInTasks": "3.7",
+                    "careerProgressionOpportunities": "3.0",
+                    "overtime": {
+                        "never": 11.76470588235294,
+                        "often": 23.52941176470588,
+                        "sometimes": 64.70588235294117
+                    },
+                    "weekends": {
+                        "never": 11.76470588235294,
+                        "often": 35.294117647058826,
+                        "sometimes": 52.94117647058824
+                    },
+                    "shiftWork": {
+                        "never": 29.411764705882355,
+                        "often": 47.05882352941176,
+                        "sometimes": 23.52941176470588
+                    },
+                    "lateNights": {
+                        "never": 23.52941176470588,
+                        "often": 41.17647058823529,
+                        "sometimes": 35.294117647058826
+                    },
+                    "workingHoursCount": 17
+                },
+                "growth": {
+                    "value": 16.7
+                },
+                "salarySuggestion": {
+                    "salary_median": 85000
+                },
+                "specReqs": [
+                    {
+                        "label": "Aircraft Maintenance Engineering"
+                    },
+                    {
+                        "label": "Airworthiness"
+                    },
+                    {
+                        "label": "Technical Publications"
+                    },
+                    {
+                        "label": "Australian Government Security Clearance"
+                    },
+                    {
+                        "label": "Australian Drivers Licence"
+                    },
+                    {
+                        "label": "Team Work"
+                    },
+                    {
+                        "label": "Computer Literacy"
+                    },
+                    {
+                        "label": "Willingness to Learn"
+                    },
+                    {
+                        "label": "Problem Solving"
+                    },
+                    {
+                        "label": "Proactive Attitude"
+                    }
+                ]
+            },
+            {
+                "id": "alliance-manager",
+                "title": "Alliance Manager",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 135000
+                },
+                "specReqs": [
+                    {
+                        "label": "Alliance Management"
+                    },
+                    {
+                        "label": "Strategic Thinking"
+                    },
+                    {
+                        "label": "Partner Relationship Management"
+                    },
+                    {
+                        "label": "Channel Sales"
+                    },
+                    {
+                        "label": "Land Transport"
+                    },
+                    {
+                        "label": "Strategic Account Management"
+                    },
+                    {
+                        "label": "Commercial Acumen"
+                    },
+                    {
+                        "label": "Drug Development"
+                    },
+                    {
+                        "label": "Infrastructure Management"
+                    },
+                    {
+                        "label": "Network Systems"
+                    }
+                ]
+            },
+            {
+                "id": "applications-engineer",
+                "title": "Applications Engineer",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "2.5",
+                    "employability": "4.5",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "4.5",
+                    "diversityInTasks": "3.0",
+                    "careerProgressionOpportunities": "2.5",
+                    "overtime": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 107499
+                },
+                "specReqs": [
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "C# Programming"
+                    },
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "Mechatronics"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Microsoft Products"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "Control Systems"
+                    },
+                    {
+                        "label": "Microsoft Azure"
+                    },
+                    {
+                        "label": "C++ Programming"
+                    }
+                ]
+            },
+            {
+                "id": "asset-engineer",
+                "title": "Asset Engineer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "3.0",
+                    "employability": "4.0",
+                    "jobSatisfaction": "5.0",
+                    "workLifeBalance": "4.0",
+                    "diversityInTasks": "4.0",
+                    "careerProgressionOpportunities": "5.0",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": {
+                    "value": 10.5
+                },
+                "salarySuggestion": {
+                    "salary_median": 115000
+                },
+                "specReqs": [
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Asset Management Software"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Industrial Skills"
+                    },
+                    {
+                        "label": "Computerized Maintenance Management System"
+                    },
+                    {
+                        "label": "Negotiation"
+                    },
+                    {
+                        "label": "Australian Drivers Licence"
+                    },
+                    {
+                        "label": "Leadership"
+                    }
+                ]
+            },
+            {
+                "id": "asset-officer",
+                "title": "Asset Officer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "5.0",
+                    "employability": "4.0",
+                    "jobSatisfaction": "5.0",
+                    "workLifeBalance": "5.0",
+                    "diversityInTasks": "4.0",
+                    "careerProgressionOpportunities": "5.0",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 82500
+                },
+                "specReqs": [
+                    {
+                        "label": "Asset Management Software"
+                    },
+                    {
+                        "label": "Geographic Information Systems"
+                    },
+                    {
+                        "label": "Management Information System"
+                    },
+                    {
+                        "label": "Asset Maintenance"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    },
+                    {
+                        "label": "Workplace Health and Safety"
+                    },
+                    {
+                        "label": "Construction Induction White Card"
+                    },
+                    {
+                        "label": "Working with Children"
+                    },
+                    {
+                        "label": "Analytical Thinking"
+                    }
+                ]
+            },
+            {
+                "id": "assurance-engineer",
+                "title": "Assurance Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 105000
+                },
+                "specReqs": [
+                    {
+                        "label": "Systems Engineering"
+                    },
+                    {
+                        "label": "Process Engineering"
+                    },
+                    {
+                        "label": "Chemical Engineering"
+                    },
+                    {
+                        "label": "Corrosion"
+                    },
+                    {
+                        "label": "Petroleum"
+                    },
+                    {
+                        "label": "Helpdesk Support"
+                    },
+                    {
+                        "label": "Concept Development"
+                    },
+                    {
+                        "label": "Ticketing"
+                    },
+                    {
+                        "label": "Microservices"
+                    },
+                    {
+                        "label": "Mitigation"
+                    }
+                ]
+            },
+            {
+                "id": "automation-engineer",
+                "title": "Automation Engineer",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "4.0",
+                    "employability": "3.5",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "5.0",
+                    "diversityInTasks": "2.5",
+                    "careerProgressionOpportunities": "2.0",
+                    "overtime": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": 50,
+                        "sometimes": 50
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 119999
+                },
+                "specReqs": [
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "SCADA Programming"
+                    },
+                    {
+                        "label": "Java Programming"
+                    },
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "Mechatronics"
+                    },
+                    {
+                        "label": "Test Automation"
+                    },
+                    {
+                        "label": "Jenkins Software"
+                    },
+                    {
+                        "label": "C# Programming"
+                    },
+                    {
+                        "label": "CI/CD"
+                    },
+                    {
+                        "label": "Behaviour Driven Development"
+                    }
+                ]
+            },
+            {
+                "id": "biomedical-engineer",
+                "title": "Biomedical Engineer",
+                "roleReviewStatistics": {
+                    "total": 6,
+                    "remuneration": "3.5",
+                    "employability": "4.5",
+                    "jobSatisfaction": "4.5",
+                    "workLifeBalance": "4.3",
+                    "diversityInTasks": "4.7",
+                    "careerProgressionOpportunities": "4.0",
+                    "overtime": {
+                        "never": 16.666666666666664,
+                        "often": 16.666666666666664,
+                        "sometimes": 66.66666666666666
+                    },
+                    "weekends": {
+                        "never": 16.666666666666664,
+                        "often": 33.33333333333333,
+                        "sometimes": 50
+                    },
+                    "shiftWork": {
+                        "never": 66.66666666666666,
+                        "often": 16.666666666666664,
+                        "sometimes": 16.666666666666664
+                    },
+                    "lateNights": {
+                        "never": 16.666666666666664,
+                        "often": null,
+                        "sometimes": 83.33333333333334
+                    },
+                    "workingHoursCount": 6
+                },
+                "growth": {
+                    "value": 8.4
+                },
+                "salarySuggestion": {
+                    "salary_median": 87249
+                },
+                "specReqs": [
+                    {
+                        "label": "Medical Electronics"
+                    },
+                    {
+                        "label": "Equipment Services"
+                    },
+                    {
+                        "label": "Electronic Equipment"
+                    },
+                    {
+                        "label": "Provisional Drivers Licence"
+                    },
+                    {
+                        "label": "Literacy"
+                    },
+                    {
+                        "label": "Technology Management"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Medical Devices"
+                    },
+                    {
+                        "label": "Health Technology"
+                    },
+                    {
+                        "label": "Continuous Quality Improvement"
+                    }
+                ]
+            },
+            {
+                "id": "calibration-technician",
+                "title": "Calibration Technician",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 72500
+                },
+                "specReqs": [
+                    {
+                        "label": "Electrical Testing"
+                    },
+                    {
+                        "label": "ISO 17025"
+                    },
+                    {
+                        "label": "Electrical Instrumentation Maintenance"
+                    },
+                    {
+                        "label": "Australian Drivers Licence"
+                    },
+                    {
+                        "label": "Computer Literacy"
+                    },
+                    {
+                        "label": "Customer Service"
+                    },
+                    {
+                        "label": "Workplace Health and Safety"
+                    },
+                    {
+                        "label": "Thoroughness"
+                    },
+                    {
+                        "label": "Neat Personal Presentation"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    }
+                ]
+            },
+            {
+                "id": "chemical-engineer",
+                "title": "Chemical Engineer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "4.0",
+                    "employability": "4.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "4.0",
+                    "diversityInTasks": "4.0",
+                    "careerProgressionOpportunities": "5.0",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": {
+                    "value": 7.7
+                },
+                "salarySuggestion": {
+                    "salary_median": 87499
+                },
+                "specReqs": [
+                    {
+                        "label": "Chemical Engineering"
+                    },
+                    {
+                        "label": "Chemistry"
+                    },
+                    {
+                        "label": "Metallurgy"
+                    },
+                    {
+                        "label": "Mineral Processing"
+                    },
+                    {
+                        "label": "Process Engineering"
+                    },
+                    {
+                        "label": "Field Engineering"
+                    },
+                    {
+                        "label": "Process Management"
+                    },
+                    {
+                        "label": "Processing Plant Duties"
+                    },
+                    {
+                        "label": "Problem Solving"
+                    },
+                    {
+                        "label": "Creative Thinking"
+                    }
+                ]
+            },
+            {
+                "id": "civil-designer",
+                "title": "Civil Designer",
+                "roleReviewStatistics": {
+                    "total": 14,
+                    "remuneration": "3.6",
+                    "employability": "3.6",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "4.0",
+                    "diversityInTasks": "4.1",
+                    "careerProgressionOpportunities": "3.9",
+                    "overtime": {
+                        "never": 14.285714285714285,
+                        "often": 14.285714285714285,
+                        "sometimes": 71.42857142857143
+                    },
+                    "weekends": {
+                        "never": 42.857142857142854,
+                        "often": 14.285714285714285,
+                        "sometimes": 42.857142857142854
+                    },
+                    "shiftWork": {
+                        "never": 78.57142857142857,
+                        "often": null,
+                        "sometimes": 21.428571428571427
+                    },
+                    "lateNights": {
+                        "never": 28.57142857142857,
+                        "often": null,
+                        "sometimes": 71.42857142857143
+                    },
+                    "workingHoursCount": 14
+                },
+                "growth": {
+                    "value": 1
+                },
+                "salarySuggestion": {
+                    "salary_median": 105000
+                },
+                "specReqs": [
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Civil Design"
+                    },
+                    {
+                        "label": "Road Design"
+                    },
+                    {
+                        "label": "Drainage"
+                    },
+                    {
+                        "label": "Stormwater"
+                    },
+                    {
+                        "label": "Earthworks"
+                    },
+                    {
+                        "label": "Design Software"
+                    },
+                    {
+                        "label": "Civil Infrastructure"
+                    },
+                    {
+                        "label": "12D Software"
+                    },
+                    {
+                        "label": "Urban Development"
+                    }
+                ]
+            },
+            {
+                "id": "civil-engineer",
+                "title": "Civil Engineer",
+                "roleReviewStatistics": {
+                    "total": 39,
+                    "remuneration": "3.5",
+                    "employability": "3.7",
+                    "jobSatisfaction": "3.7",
+                    "workLifeBalance": "3.9",
+                    "diversityInTasks": "3.7",
+                    "careerProgressionOpportunities": "3.8",
+                    "overtime": {
+                        "never": 25.64102564102564,
+                        "often": 7.6923076923076925,
+                        "sometimes": 66.66666666666666
+                    },
+                    "weekends": {
+                        "never": 46.15384615384615,
+                        "often": 15.384615384615385,
+                        "sometimes": 38.46153846153847
+                    },
+                    "shiftWork": {
+                        "never": 53.84615384615385,
+                        "often": 17.94871794871795,
+                        "sometimes": 28.205128205128204
+                    },
+                    "lateNights": {
+                        "never": 41.02564102564102,
+                        "often": 2.564102564102564,
+                        "sometimes": 56.41025641025641
+                    },
+                    "workingHoursCount": 39
+                },
+                "growth": {
+                    "value": 13.4
+                },
+                "salarySuggestion": {
+                    "salary_median": 97500
+                },
+                "specReqs": [
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Civil Design"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Drainage"
+                    },
+                    {
+                        "label": "Stormwater"
+                    },
+                    {
+                        "label": "Civil Infrastructure"
+                    },
+                    {
+                        "label": "Earthworks"
+                    },
+                    {
+                        "label": "Land Development"
+                    },
+                    {
+                        "label": "Civil Projects"
+                    },
+                    {
+                        "label": "Detailed Design"
+                    }
+                ]
+            },
+            {
+                "id": "civil-project-manager",
+                "title": "Civil Project Manager",
+                "roleReviewStatistics": null,
+                "growth": {
+                    "value": 10.2
+                },
+                "salarySuggestion": {
+                    "salary_median": 150000
+                },
+                "specReqs": [
+                    {
+                        "label": "Civil Projects"
+                    },
+                    {
+                        "label": "Civil Construction"
+                    },
+                    {
+                        "label": "Earthworks"
+                    },
+                    {
+                        "label": "Civil Infrastructure"
+                    },
+                    {
+                        "label": "Construction Management"
+                    },
+                    {
+                        "label": "Subdivision"
+                    },
+                    {
+                        "label": "Construction Projects"
+                    },
+                    {
+                        "label": "Microsoft Project"
+                    },
+                    {
+                        "label": "Drainage"
+                    },
+                    {
+                        "label": "Building Construction"
+                    }
+                ]
+            },
+            {
+                "id": "communications-engineer",
+                "title": "Communications Engineer",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "4.5",
+                    "employability": "4.5",
+                    "jobSatisfaction": "4.5",
+                    "workLifeBalance": "4.5",
+                    "diversityInTasks": "4.5",
+                    "careerProgressionOpportunities": "4.5",
+                    "overtime": {
+                        "never": null,
+                        "often": 50,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 110000
+                },
+                "specReqs": [
+                    {
+                        "label": "Systems Engineering"
+                    },
+                    {
+                        "label": "Communication Systems"
+                    },
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Avionics Engineering"
+                    },
+                    {
+                        "label": "Electronic Communications"
+                    },
+                    {
+                        "label": "Telecommunications Systems"
+                    },
+                    {
+                        "label": "Wireless"
+                    },
+                    {
+                        "label": "SCADA Programming"
+                    },
+                    {
+                        "label": "Telecommunications Engineering"
+                    },
+                    {
+                        "label": "VOIP"
+                    }
+                ]
+            },
+            {
+                "id": "compliance-engineer",
+                "title": "Compliance Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 88749
+                },
+                "specReqs": [
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Product Testing"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Applied Physics"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Systems Design"
+                    },
+                    {
+                        "label": "Electrical Safety"
+                    },
+                    {
+                        "label": "Systems Analysis"
+                    },
+                    {
+                        "label": "Engineering Surveying"
+                    },
+                    {
+                        "label": "Industrial Design"
+                    }
+                ]
+            },
+            {
+                "id": "construction-engineer",
+                "title": "Construction Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 110000
+                },
+                "specReqs": [
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Land Development"
+                    },
+                    {
+                        "label": "Construction Management"
+                    },
+                    {
+                        "label": "Civil Construction"
+                    },
+                    {
+                        "label": "Building Construction"
+                    },
+                    {
+                        "label": "Relationship Management"
+                    },
+                    {
+                        "label": "Construction Induction White Card"
+                    },
+                    {
+                        "label": "Traffic Management"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Drainage"
+                    }
+                ]
+            },
+            {
+                "id": "control-coordinator",
+                "title": "Control Coordinator",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 97499
+                },
+                "specReqs": [
+                    {
+                        "label": "Infection Prevention"
+                    },
+                    {
+                        "label": "Infection Control"
+                    },
+                    {
+                        "label": "Project Control"
+                    },
+                    {
+                        "label": "Outbreak Management"
+                    },
+                    {
+                        "label": "AHPRA Registration"
+                    },
+                    {
+                        "label": "Approved Immunisation Training Program"
+                    },
+                    {
+                        "label": "Waste Management"
+                    },
+                    {
+                        "label": "Report Writing"
+                    },
+                    {
+                        "label": "Project Planning"
+                    },
+                    {
+                        "label": "Microsoft Project"
+                    }
+                ]
+            },
+            {
+                "id": "controls-engineer",
+                "title": "Controls Engineer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "1.0",
+                    "employability": "5.0",
+                    "jobSatisfaction": "1.0",
+                    "workLifeBalance": "1.0",
+                    "diversityInTasks": "5.0",
+                    "careerProgressionOpportunities": "2.0",
+                    "overtime": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 105500
+                },
+                "specReqs": [
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "SCADA Programming"
+                    },
+                    {
+                        "label": "Functional Safety"
+                    },
+                    {
+                        "label": "Mechatronics Engineering"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Machine Control Systems"
+                    },
+                    {
+                        "label": "Electrical Design"
+                    },
+                    {
+                        "label": "Computer Systems Engineering"
+                    },
+                    {
+                        "label": "Automation Systems"
+                    },
+                    {
+                        "label": "Material Handling"
+                    }
+                ]
+            },
+            {
+                "id": "delivery-engineer",
+                "title": "Delivery Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 105789
+                },
+                "specReqs": [
+                    {
+                        "label": "Microsoft Active Directory"
+                    },
+                    {
+                        "label": "AWS"
+                    },
+                    {
+                        "label": "Microsoft Azure"
+                    },
+                    {
+                        "label": "Microsoft Windows Server"
+                    },
+                    {
+                        "label": "VMware"
+                    },
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "Test Cases"
+                    },
+                    {
+                        "label": "Road Maintenance"
+                    },
+                    {
+                        "label": "CI/CD"
+                    },
+                    {
+                        "label": "Kubernetes"
+                    }
+                ]
+            },
+            {
+                "id": "design-engineer",
+                "title": "Design Engineer",
+                "roleReviewStatistics": {
+                    "total": 23,
+                    "remuneration": "3.4",
+                    "employability": "3.5",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "4.1",
+                    "diversityInTasks": "3.7",
+                    "careerProgressionOpportunities": "3.5",
+                    "overtime": {
+                        "never": 26.08695652173913,
+                        "often": 4.3478260869565215,
+                        "sometimes": 69.56521739130434
+                    },
+                    "weekends": {
+                        "never": 56.52173913043478,
+                        "often": 4.3478260869565215,
+                        "sometimes": 39.130434782608695
+                    },
+                    "shiftWork": {
+                        "never": 91.30434782608695,
+                        "often": null,
+                        "sometimes": 8.695652173913043
+                    },
+                    "lateNights": {
+                        "never": 39.130434782608695,
+                        "often": null,
+                        "sometimes": 60.86956521739131
+                    },
+                    "workingHoursCount": 23
+                },
+                "growth": {
+                    "value": 10.1
+                },
+                "salarySuggestion": {
+                    "salary_median": 110000
+                },
+                "specReqs": [
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Engineering Design"
+                    },
+                    {
+                        "label": "Design Software"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    }
+                ]
+            },
+            {
+                "id": "design-officer",
+                "title": "Design Officer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 87499
+                },
+                "specReqs": [
+                    {
+                        "label": "Graphic Design"
+                    },
+                    {
+                        "label": "CAD Design"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Spatial Science"
+                    },
+                    {
+                        "label": "Adobe Creative Suite"
+                    },
+                    {
+                        "label": "Electricity Distribution"
+                    },
+                    {
+                        "label": "Design Software"
+                    },
+                    {
+                        "label": "UX"
+                    },
+                    {
+                        "label": "Written Communication"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    }
+                ]
+            },
+            {
+                "id": "design-technician",
+                "title": "Design Technician",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 83000
+                },
+                "specReqs": [
+                    {
+                        "label": "Autodesk Revit"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Navisworks"
+                    },
+                    {
+                        "label": "Grasshopper"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "Detailed Design"
+                    },
+                    {
+                        "label": "Electrical Substation"
+                    },
+                    {
+                        "label": "Knowledge Sharing"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    },
+                    {
+                        "label": "Digital Design"
+                    }
+                ]
+            },
+            {
+                "id": "development-engineer",
+                "title": "Development Engineer",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "4.0",
+                    "employability": "4.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "3.5",
+                    "diversityInTasks": "4.5",
+                    "careerProgressionOpportunities": "4.5",
+                    "overtime": {
+                        "never": 50,
+                        "often": 50,
+                        "sometimes": null
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": 50,
+                        "often": 50,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 99999
+                },
+                "specReqs": [
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Subdivision"
+                    },
+                    {
+                        "label": "Drainage"
+                    },
+                    {
+                        "label": "Land Development"
+                    },
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "Problem Solving"
+                    },
+                    {
+                        "label": "Communication Skills"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    },
+                    {
+                        "label": "Time Management"
+                    },
+                    {
+                        "label": "Computer Literacy"
+                    }
+                ]
+            },
+            {
+                "id": "draftperson_2",
+                "title": "Draftsperson",
+                "roleReviewStatistics": {
+                    "total": 51,
+                    "remuneration": "3.6",
+                    "employability": "3.7",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "4.1",
+                    "diversityInTasks": "3.8",
+                    "careerProgressionOpportunities": "3.6",
+                    "overtime": {
+                        "never": 12.244897959183673,
+                        "often": 12.244897959183673,
+                        "sometimes": 75.51020408163265
+                    },
+                    "weekends": {
+                        "never": 48.97959183673469,
+                        "often": 10.204081632653061,
+                        "sometimes": 40.816326530612244
+                    },
+                    "shiftWork": {
+                        "never": 87.75510204081633,
+                        "often": 6.122448979591836,
+                        "sometimes": 6.122448979591836
+                    },
+                    "lateNights": {
+                        "never": 46.93877551020408,
+                        "often": 2.0408163265306123,
+                        "sometimes": 51.02040816326531
+                    },
+                    "workingHoursCount": 49
+                },
+                "growth": {
+                    "value": 11.9
+                },
+                "salarySuggestion": {
+                    "salary_median": 80000
+                },
+                "specReqs": [
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Autodesk Revit"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "Joinery"
+                    },
+                    {
+                        "label": "ArchiCAD"
+                    },
+                    {
+                        "label": "Cabinet Making"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    },
+                    {
+                        "label": "3D Modelling"
+                    },
+                    {
+                        "label": "Thoroughness"
+                    },
+                    {
+                        "label": "Time Management"
+                    }
+                ]
+            },
+            {
+                "id": "drainage-engineer",
+                "title": "Drainage Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 110000
+                },
+                "specReqs": [
+                    {
+                        "label": "Drainage Design"
+                    },
+                    {
+                        "label": "Stormwater"
+                    },
+                    {
+                        "label": "Hec-Ras"
+                    },
+                    {
+                        "label": "Hydrology"
+                    },
+                    {
+                        "label": "Environmental Engineering"
+                    },
+                    {
+                        "label": "Water Quality"
+                    },
+                    {
+                        "label": "Hydraulic Modelling"
+                    },
+                    {
+                        "label": "Hydraulics"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Design Software"
+                    }
+                ]
+            },
+            {
+                "id": "electrical-engineer",
+                "title": "Electrical Engineer",
+                "roleReviewStatistics": {
+                    "total": 52,
+                    "remuneration": "3.8",
+                    "employability": "3.8",
+                    "jobSatisfaction": "4.2",
+                    "workLifeBalance": "3.9",
+                    "diversityInTasks": "4.2",
+                    "careerProgressionOpportunities": "4.0",
+                    "overtime": {
+                        "never": 21.153846153846153,
+                        "often": 19.230769230769234,
+                        "sometimes": 59.61538461538461
+                    },
+                    "weekends": {
+                        "never": 23.076923076923077,
+                        "often": 13.461538461538462,
+                        "sometimes": 63.46153846153846
+                    },
+                    "shiftWork": {
+                        "never": 80.76923076923077,
+                        "often": 5.769230769230769,
+                        "sometimes": 13.461538461538462
+                    },
+                    "lateNights": {
+                        "never": 40.38461538461539,
+                        "often": 5.769230769230769,
+                        "sometimes": 53.84615384615385
+                    },
+                    "workingHoursCount": 52
+                },
+                "growth": {
+                    "value": 9.5
+                },
+                "salarySuggestion": {
+                    "salary_median": 105000
+                },
+                "specReqs": [
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Electrical Design"
+                    },
+                    {
+                        "label": "Building Services"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Control Systems"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    },
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "Electrical Power Systems"
+                    },
+                    {
+                        "label": "Engineering Design"
+                    }
+                ]
+            },
+            {
+                "id": "electronics-engineer",
+                "title": "Electronics Engineer",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "3.5",
+                    "employability": "3.5",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "3.5",
+                    "diversityInTasks": "3.5",
+                    "careerProgressionOpportunities": "4.5",
+                    "overtime": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": {
+                    "value": 2.2
+                },
+                "salarySuggestion": {
+                    "salary_median": 100000
+                },
+                "specReqs": [
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Altium Designer"
+                    },
+                    {
+                        "label": "Electronics Design"
+                    },
+                    {
+                        "label": "Pcb Design"
+                    },
+                    {
+                        "label": "Microcontroller Unit"
+                    },
+                    {
+                        "label": "Schematic Drawings"
+                    },
+                    {
+                        "label": "Pcb Layout"
+                    },
+                    {
+                        "label": "Firmware"
+                    },
+                    {
+                        "label": "Circuit Design"
+                    },
+                    {
+                        "label": "Matlab Programming"
+                    }
+                ]
+            },
+            {
+                "id": "electronics-technician",
+                "title": "Electronics Technician",
+                "roleReviewStatistics": {
+                    "total": 10,
+                    "remuneration": "4.0",
+                    "employability": "4.3",
+                    "jobSatisfaction": "4.1",
+                    "workLifeBalance": "4.6",
+                    "diversityInTasks": "4.1",
+                    "careerProgressionOpportunities": "3.9",
+                    "overtime": {
+                        "never": 40,
+                        "often": 10,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": 50,
+                        "often": 40,
+                        "sometimes": 10
+                    },
+                    "shiftWork": {
+                        "never": 70,
+                        "often": 10,
+                        "sometimes": 20
+                    },
+                    "lateNights": {
+                        "never": 70,
+                        "often": null,
+                        "sometimes": 30
+                    },
+                    "workingHoursCount": 10
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 74500
+                },
+                "specReqs": [
+                    {
+                        "label": "Soldering"
+                    },
+                    {
+                        "label": "Fault Finding"
+                    },
+                    {
+                        "label": "Schematic Drawings"
+                    },
+                    {
+                        "label": "Diagramming"
+                    },
+                    {
+                        "label": "Electronic Trade"
+                    },
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Oscilloscopes"
+                    },
+                    {
+                        "label": "Wiring"
+                    },
+                    {
+                        "label": "Electronic Equipment"
+                    },
+                    {
+                        "label": "Plc Programming"
+                    }
+                ]
+            },
+            {
+                "id": "engineer",
+                "title": "Engineer",
+                "roleReviewStatistics": {
+                    "total": 37,
+                    "remuneration": "3.7",
+                    "employability": "3.6",
+                    "jobSatisfaction": "3.8",
+                    "workLifeBalance": "3.7",
+                    "diversityInTasks": "3.7",
+                    "careerProgressionOpportunities": "3.9",
+                    "overtime": {
+                        "never": 18.91891891891892,
+                        "often": 32.432432432432435,
+                        "sometimes": 48.64864864864865
+                    },
+                    "weekends": {
+                        "never": 35.13513513513514,
+                        "often": 18.91891891891892,
+                        "sometimes": 45.94594594594595
+                    },
+                    "shiftWork": {
+                        "never": 64.86486486486487,
+                        "often": 13.513513513513514,
+                        "sometimes": 21.62162162162162
+                    },
+                    "lateNights": {
+                        "never": 27.027027027027028,
+                        "often": 16.216216216216218,
+                        "sometimes": 56.75675675675676
+                    },
+                    "workingHoursCount": 37
+                },
+                "growth": {
+                    "value": 10.5
+                },
+                "salarySuggestion": {
+                    "salary_median": 105000
+                },
+                "specReqs": [
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "AWS"
+                    },
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "Java Programming"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Microsoft Azure"
+                    },
+                    {
+                        "label": "CI/CD"
+                    },
+                    {
+                        "label": "Problem Solving"
+                    },
+                    {
+                        "label": "Communication Skills"
+                    },
+                    {
+                        "label": "Willingness to Learn"
+                    }
+                ]
+            },
+            {
+                "id": "engineering-consultant",
+                "title": "Engineering Consultant",
+                "roleReviewStatistics": {
+                    "total": 3,
+                    "remuneration": "3.7",
+                    "employability": "3.0",
+                    "jobSatisfaction": "4.7",
+                    "workLifeBalance": "3.7",
+                    "diversityInTasks": "3.0",
+                    "careerProgressionOpportunities": "1.0",
+                    "overtime": {
+                        "never": 33.33333333333333,
+                        "often": 33.33333333333333,
+                        "sometimes": 33.33333333333333
+                    },
+                    "weekends": {
+                        "never": 33.33333333333333,
+                        "often": 33.33333333333333,
+                        "sometimes": 33.33333333333333
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 33.33333333333333,
+                        "often": null,
+                        "sometimes": 66.66666666666666
+                    },
+                    "workingHoursCount": 3
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 119057
+                },
+                "specReqs": [
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "AWS"
+                    },
+                    {
+                        "label": "Splunk"
+                    },
+                    {
+                        "label": "Java Programming"
+                    },
+                    {
+                        "label": "Microsoft Azure"
+                    },
+                    {
+                        "label": "Jenkins Software"
+                    },
+                    {
+                        "label": "Linux"
+                    },
+                    {
+                        "label": "DevOps"
+                    },
+                    {
+                        "label": "Report Writing"
+                    },
+                    {
+                        "label": "Kubernetes"
+                    }
+                ]
+            },
+            {
+                "id": "engineering-manager",
+                "title": "Engineering Manager",
+                "roleReviewStatistics": {
+                    "total": 29,
+                    "remuneration": "3.6",
+                    "employability": "3.6",
+                    "jobSatisfaction": "4.1",
+                    "workLifeBalance": "3.8",
+                    "diversityInTasks": "4.0",
+                    "careerProgressionOpportunities": "3.7",
+                    "overtime": {
+                        "never": 17.24137931034483,
+                        "often": 17.24137931034483,
+                        "sometimes": 65.51724137931035
+                    },
+                    "weekends": {
+                        "never": 20.689655172413794,
+                        "often": 6.896551724137931,
+                        "sometimes": 72.41379310344827
+                    },
+                    "shiftWork": {
+                        "never": 86.20689655172413,
+                        "often": 6.896551724137931,
+                        "sometimes": 6.896551724137931
+                    },
+                    "lateNights": {
+                        "never": 17.24137931034483,
+                        "often": 10.344827586206897,
+                        "sometimes": 72.41379310344827
+                    },
+                    "workingHoursCount": 29
+                },
+                "growth": {
+                    "value": 11.7
+                },
+                "salarySuggestion": {
+                    "salary_median": 168500
+                },
+                "specReqs": [
+                    {
+                        "label": "Engineering Management"
+                    },
+                    {
+                        "label": "Software Development"
+                    },
+                    {
+                        "label": "AWS"
+                    },
+                    {
+                        "label": "DevOps"
+                    },
+                    {
+                        "label": "Team Leadership"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "CI/CD"
+                    },
+                    {
+                        "label": "Java Programming"
+                    },
+                    {
+                        "label": "Microsoft Azure"
+                    },
+                    {
+                        "label": "Commercial Acumen"
+                    }
+                ]
+            },
+            {
+                "id": "engineering-officer",
+                "title": "Engineering Officer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 97499
+                },
+                "specReqs": [
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Workcover"
+                    },
+                    {
+                        "label": "Technical Engineering"
+                    },
+                    {
+                        "label": "Design Engineering"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Construction Induction White Card"
+                    },
+                    {
+                        "label": "Civil Design"
+                    },
+                    {
+                        "label": "Analysis"
+                    },
+                    {
+                        "label": "Restricted Electrical Licence"
+                    },
+                    {
+                        "label": "Structural Engineering"
+                    }
+                ]
+            },
+            {
+                "id": "engineering-team-lead",
+                "title": "Engineering Team Leader",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "3.0",
+                    "employability": "5.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "5.0",
+                    "diversityInTasks": "3.0",
+                    "careerProgressionOpportunities": "4.0",
+                    "overtime": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 175000
+                },
+                "specReqs": [
+                    {
+                        "label": "AWS Solutions"
+                    },
+                    {
+                        "label": "CI/CD"
+                    },
+                    {
+                        "label": "Cloud Technologies"
+                    },
+                    {
+                        "label": "Typescript Programming"
+                    },
+                    {
+                        "label": "Pipelines"
+                    },
+                    {
+                        "label": "Linux"
+                    },
+                    {
+                        "label": "Mechatronics"
+                    },
+                    {
+                        "label": "Microservices"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Team Leadership"
+                    }
+                ]
+            },
+            {
+                "id": "engineering-technician",
+                "title": "Engineering Technician",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "4.0",
+                    "employability": "4.0",
+                    "jobSatisfaction": "5.0",
+                    "workLifeBalance": "5.0",
+                    "diversityInTasks": "4.0",
+                    "careerProgressionOpportunities": "5.0",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 94999
+                },
+                "specReqs": [
+                    {
+                        "label": "Data Communications"
+                    },
+                    {
+                        "label": "Test Plans"
+                    },
+                    {
+                        "label": "Software Testing"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Schematic Drawings"
+                    },
+                    {
+                        "label": "Mechanical Trade"
+                    },
+                    {
+                        "label": "Technical Aptitude"
+                    },
+                    {
+                        "label": "Autonomy"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    },
+                    {
+                        "label": "Organised"
+                    }
+                ]
+            },
+            {
+                "id": "engineering-technologist",
+                "title": "Engineering Technologist",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 69999
+                },
+                "specReqs": [
+                    {
+                        "label": "Wastewater Treatment"
+                    },
+                    {
+                        "label": "Restricted Electrical Licence"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "CAD Design"
+                    },
+                    {
+                        "label": "Problem Solving"
+                    },
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Team Work"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Drivers Licence"
+                    }
+                ]
+            },
+            {
+                "id": "environmental-coordinator",
+                "title": "Environmental Coordinator",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 122500
+                },
+                "specReqs": [
+                    {
+                        "label": "Environmental Science"
+                    },
+                    {
+                        "label": "Environmental Engineering"
+                    },
+                    {
+                        "label": "Institute of Singapore Chartered Accountants Qualification"
+                    },
+                    {
+                        "label": "Water Management"
+                    },
+                    {
+                        "label": "Bluebeam"
+                    },
+                    {
+                        "label": "Subcontractor Management"
+                    },
+                    {
+                        "label": "Stormwater"
+                    },
+                    {
+                        "label": "Environment Law"
+                    },
+                    {
+                        "label": "Civil Construction"
+                    },
+                    {
+                        "label": "Microsoft Visio"
+                    }
+                ]
+            },
+            {
+                "id": "environmental-engineer",
+                "title": "Environmental Engineer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "5.0",
+                    "employability": "3.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "5.0",
+                    "diversityInTasks": "5.0",
+                    "careerProgressionOpportunities": "3.0",
+                    "overtime": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 101249
+                },
+                "specReqs": [
+                    {
+                        "label": "Environmental Engineering"
+                    },
+                    {
+                        "label": "Environmental Science"
+                    },
+                    {
+                        "label": "Contaminated Land"
+                    },
+                    {
+                        "label": "Geology"
+                    },
+                    {
+                        "label": "Report Writing"
+                    },
+                    {
+                        "label": "Environment Law"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Task Management"
+                    },
+                    {
+                        "label": "Australian Drivers Licence"
+                    },
+                    {
+                        "label": "Communication Skills"
+                    }
+                ]
+            },
+            {
+                "id": "equipment-manager",
+                "title": "Equipment Manager",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 119999
+                },
+                "specReqs": [
+                    {
+                        "label": "Service Planning"
+                    },
+                    {
+                        "label": "Knowledge Sharing"
+                    },
+                    {
+                        "label": "Fleet Management"
+                    },
+                    {
+                        "label": "Fleet Maintenance"
+                    },
+                    {
+                        "label": "Oracle"
+                    },
+                    {
+                        "label": "Systems Analysis"
+                    },
+                    {
+                        "label": "Profit and Loss"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    },
+                    {
+                        "label": "Computerized Maintenance Management System"
+                    },
+                    {
+                        "label": "Mechanical Trade"
+                    }
+                ]
+            },
+            {
+                "id": "facade-engineer",
+                "title": "Facade Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 119999
+                },
+                "specReqs": [
+                    {
+                        "label": "Structural Engineering"
+                    },
+                    {
+                        "label": "Strand 7"
+                    },
+                    {
+                        "label": "Cladding"
+                    },
+                    {
+                        "label": "Masonry"
+                    },
+                    {
+                        "label": "Engineering Design"
+                    },
+                    {
+                        "label": "Material Selection"
+                    },
+                    {
+                        "label": "Facade Design"
+                    },
+                    {
+                        "label": "Report Preparation"
+                    },
+                    {
+                        "label": "Spacegass"
+                    },
+                    {
+                        "label": "Report Writing"
+                    }
+                ]
+            },
+            {
+                "id": "field-engineer",
+                "title": "Field Engineer",
+                "roleReviewStatistics": {
+                    "total": 4,
+                    "remuneration": "4.3",
+                    "employability": "4.0",
+                    "jobSatisfaction": "3.8",
+                    "workLifeBalance": "3.8",
+                    "diversityInTasks": "4.8",
+                    "careerProgressionOpportunities": "4.3",
+                    "overtime": {
+                        "never": null,
+                        "often": 25,
+                        "sometimes": 75
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": null,
+                        "often": 50,
+                        "sometimes": 50
+                    },
+                    "lateNights": {
+                        "never": 25,
+                        "often": null,
+                        "sometimes": 75
+                    },
+                    "workingHoursCount": 4
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 89999
+                },
+                "specReqs": [
+                    {
+                        "label": "Dense Wavelength-Division Multiplexing"
+                    },
+                    {
+                        "label": "Fibre Optics"
+                    },
+                    {
+                        "label": "Telecommunications Networks"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Power Systems"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Judgement and Decision Making"
+                    },
+                    {
+                        "label": "Logical Thinking"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    },
+                    {
+                        "label": "Customer Service"
+                    }
+                ]
+            },
+            {
+                "id": "fire-engineer",
+                "title": "Fire Engineer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "5.0",
+                    "employability": "2.0",
+                    "jobSatisfaction": "5.0",
+                    "workLifeBalance": "5.0",
+                    "diversityInTasks": "5.0",
+                    "careerProgressionOpportunities": "5.0",
+                    "overtime": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 105000
+                },
+                "specReqs": [
+                    {
+                        "label": "Fire Engineering"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    },
+                    {
+                        "label": "Building Code of Australia"
+                    },
+                    {
+                        "label": "Technical Analysis"
+                    },
+                    {
+                        "label": "Building Services Engineering"
+                    },
+                    {
+                        "label": "Self Motivation"
+                    },
+                    {
+                        "label": "Computational Fluid Dynamics"
+                    },
+                    {
+                        "label": "Autodesk Revit"
+                    },
+                    {
+                        "label": "Computer Modelling"
+                    },
+                    {
+                        "label": "Report Writing"
+                    }
+                ]
+            },
+            {
+                "id": "firmware-engineer",
+                "title": "Firmware Engineer",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "4.0",
+                    "employability": "4.5",
+                    "jobSatisfaction": "5.0",
+                    "workLifeBalance": "4.5",
+                    "diversityInTasks": "4.5",
+                    "careerProgressionOpportunities": "4.5",
+                    "overtime": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 102500
+                },
+                "specReqs": [
+                    {
+                        "label": "C++ Programming"
+                    },
+                    {
+                        "label": "Firmware Development"
+                    },
+                    {
+                        "label": "Microcontroller Unit"
+                    },
+                    {
+                        "label": "Embedded C"
+                    },
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "Bluetooth"
+                    },
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Debugging"
+                    },
+                    {
+                        "label": "Schematic Drawings"
+                    },
+                    {
+                        "label": "Internet of Things"
+                    }
+                ]
+            },
+            {
+                "id": "forensic-engineer",
+                "title": "Forensic Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 113749
+                },
+                "specReqs": [
+                    {
+                        "label": "Building Code of Australia"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    },
+                    {
+                        "label": "Forensic Engineering"
+                    },
+                    {
+                        "label": "Forensics"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Framing"
+                    },
+                    {
+                        "label": "Masonry"
+                    },
+                    {
+                        "label": "MIEAust"
+                    },
+                    {
+                        "label": "Commercial Projects"
+                    },
+                    {
+                        "label": "Engineers Australia Membership"
+                    }
+                ]
+            },
+            {
+                "id": "geotechnical-engineer",
+                "title": "Geotechnical Engineer",
+                "roleReviewStatistics": {
+                    "total": 9,
+                    "remuneration": "3.9",
+                    "employability": "4.0",
+                    "jobSatisfaction": "3.9",
+                    "workLifeBalance": "3.7",
+                    "diversityInTasks": "4.1",
+                    "careerProgressionOpportunities": "3.9",
+                    "overtime": {
+                        "never": null,
+                        "often": 33.33333333333333,
+                        "sometimes": 66.66666666666666
+                    },
+                    "weekends": {
+                        "never": 22.22222222222222,
+                        "often": 22.22222222222222,
+                        "sometimes": 55.55555555555556
+                    },
+                    "shiftWork": {
+                        "never": 55.55555555555556,
+                        "often": 11.11111111111111,
+                        "sometimes": 33.33333333333333
+                    },
+                    "lateNights": {
+                        "never": 33.33333333333333,
+                        "often": null,
+                        "sometimes": 66.66666666666666
+                    },
+                    "workingHoursCount": 9
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 130000
+                },
+                "specReqs": [
+                    {
+                        "label": "Geotechnical"
+                    },
+                    {
+                        "label": "Geotechnical Engineering"
+                    },
+                    {
+                        "label": "Geology"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Mining Engineering"
+                    },
+                    {
+                        "label": "Plaxis"
+                    },
+                    {
+                        "label": "Geomechanics"
+                    },
+                    {
+                        "label": "Open Pit Mining"
+                    },
+                    {
+                        "label": "Site Investigation"
+                    },
+                    {
+                        "label": "Slope Stability"
+                    }
+                ]
+            },
+            {
+                "id": "hardware-engineer",
+                "title": "Hardware Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 100000
+                },
+                "specReqs": [
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Pcb Design"
+                    },
+                    {
+                        "label": "Mechatronics"
+                    },
+                    {
+                        "label": "Electronics Design"
+                    },
+                    {
+                        "label": "Hardware Design"
+                    },
+                    {
+                        "label": "Schematic Drawings"
+                    },
+                    {
+                        "label": "Aerospace"
+                    },
+                    {
+                        "label": "Vhdl"
+                    },
+                    {
+                        "label": "Firmware"
+                    },
+                    {
+                        "label": "Pcb Layout"
+                    }
+                ]
+            },
+            {
+                "id": "hydrologist",
+                "title": "Hydrologist",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 118000
+                },
+                "specReqs": [
+                    {
+                        "label": "Hydrology"
+                    },
+                    {
+                        "label": "Water Management"
+                    },
+                    {
+                        "label": "Hydraulic Modelling"
+                    },
+                    {
+                        "label": "Environmental Science"
+                    },
+                    {
+                        "label": "Mitigation"
+                    },
+                    {
+                        "label": "Environmental Engineering"
+                    },
+                    {
+                        "label": "Oceanography"
+                    },
+                    {
+                        "label": "QGIS"
+                    },
+                    {
+                        "label": "Meteorology"
+                    },
+                    {
+                        "label": "Stormwater"
+                    }
+                ]
+            },
+            {
+                "id": "improvement-engineer",
+                "title": "Improvement Engineer",
+                "roleReviewStatistics": null,
+                "growth": {
+                    "value": 8.4
+                },
+                "salarySuggestion": null,
+                "specReqs": [
+                    {
+                        "label": "Ner Registration"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Capital Projects"
+                    },
+                    {
+                        "label": "Investigation Methods"
+                    },
+                    {
+                        "label": "Mechanical Systems"
+                    },
+                    {
+                        "label": "Mechatronics"
+                    },
+                    {
+                        "label": "Fmea"
+                    },
+                    {
+                        "label": "Technical Specifications"
+                    },
+                    {
+                        "label": "Project Management"
+                    },
+                    {
+                        "label": "Computerized Maintenance Management System"
+                    }
+                ]
+            },
+            {
+                "id": "industrial-engineer",
+                "title": "Industrial Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 101249
+                },
+                "specReqs": [
+                    {
+                        "label": "Industrial Engineering"
+                    },
+                    {
+                        "label": "Instrumentation Engineering"
+                    },
+                    {
+                        "label": "Lean Manufacturing"
+                    },
+                    {
+                        "label": "Control System Engineering"
+                    },
+                    {
+                        "label": "Industrial Control"
+                    },
+                    {
+                        "label": "Mechatronics Engineering"
+                    },
+                    {
+                        "label": "Performance Analysis"
+                    },
+                    {
+                        "label": "Electricity Distribution"
+                    },
+                    {
+                        "label": "Manufacturing Engineering"
+                    },
+                    {
+                        "label": "SCADA Programming"
+                    }
+                ]
+            },
+            {
+                "id": "infrastructure-officer",
+                "title": "Infrastructure Officer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 89999
+                },
+                "specReqs": [
+                    {
+                        "label": "Microsoft Office 365"
+                    },
+                    {
+                        "label": "Policy Development"
+                    },
+                    {
+                        "label": "Program Delivery"
+                    },
+                    {
+                        "label": "VMware"
+                    },
+                    {
+                        "label": "Microsoft Active Directory"
+                    },
+                    {
+                        "label": "Firewalls"
+                    },
+                    {
+                        "label": "Statistical Reporting"
+                    },
+                    {
+                        "label": "Cisco Technologies"
+                    },
+                    {
+                        "label": "Conceptual Thinking"
+                    },
+                    {
+                        "label": "Infrastructure Management"
+                    }
+                ]
+            },
+            {
+                "id": "instrumentation-engineer",
+                "title": "Instrumentation Engineer",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "4.0",
+                    "employability": "4.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "4.5",
+                    "diversityInTasks": "3.5",
+                    "careerProgressionOpportunities": "3.5",
+                    "overtime": {
+                        "never": null,
+                        "often": 50,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "lateNights": {
+                        "never": 50,
+                        "often": 50,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 99999
+                },
+                "specReqs": [
+                    {
+                        "label": "Control Systems"
+                    },
+                    {
+                        "label": "Engineering Geology"
+                    },
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "Geotechnical"
+                    },
+                    {
+                        "label": "Field Instrumentation"
+                    },
+                    {
+                        "label": "Hazardous Areas"
+                    },
+                    {
+                        "label": "Geotechnical Engineering"
+                    },
+                    {
+                        "label": "Process Control"
+                    },
+                    {
+                        "label": "Instrumentation Engineering"
+                    },
+                    {
+                        "label": "Functional Safety"
+                    }
+                ]
+            },
+            {
+                "id": "interface-manager",
+                "title": "Interface Manager",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 192000
+                },
+                "specReqs": [
+                    {
+                        "label": "Interface Management"
+                    },
+                    {
+                        "label": "Railway Systems"
+                    },
+                    {
+                        "label": "Project Governance"
+                    },
+                    {
+                        "label": "Rolling Stock"
+                    },
+                    {
+                        "label": "Rail Infrastructure Projects"
+                    },
+                    {
+                        "label": "Rail Infrastructure"
+                    },
+                    {
+                        "label": "Major Projects"
+                    },
+                    {
+                        "label": "Rail Industry"
+                    },
+                    {
+                        "label": "Project Planning"
+                    },
+                    {
+                        "label": "Risk Assessment"
+                    }
+                ]
+            },
+            {
+                "id": "logistics-engineer",
+                "title": "Logistics Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 94999
+                },
+                "specReqs": [
+                    {
+                        "label": "Logistics Engineering"
+                    },
+                    {
+                        "label": "Continuous Improvement"
+                    },
+                    {
+                        "label": "Engineering Geology"
+                    },
+                    {
+                        "label": "Failure Mode, Effects, and Criticality Analysis"
+                    },
+                    {
+                        "label": "Australian Government Security Clearance"
+                    },
+                    {
+                        "label": "Reliability Engineering"
+                    },
+                    {
+                        "label": "Data Visualisation"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Logical Thinking"
+                    },
+                    {
+                        "label": "Supply Chain Management"
+                    }
+                ]
+            },
+            {
+                "id": "maintenance-engineer",
+                "title": "Maintenance Engineer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "4.0",
+                    "employability": "5.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "3.0",
+                    "diversityInTasks": "4.0",
+                    "careerProgressionOpportunities": "4.0",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 100000
+                },
+                "specReqs": [
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Reliability Engineering"
+                    },
+                    {
+                        "label": "Maintenance Engineering"
+                    },
+                    {
+                        "label": "Computerized Maintenance Management System"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Root Cause Analysis"
+                    },
+                    {
+                        "label": "Mechatronics"
+                    },
+                    {
+                        "label": "Signalling"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Fault Finding"
+                    }
+                ]
+            },
+            {
+                "id": "maintenance-manager",
+                "title": "Maintenance Manager",
+                "roleReviewStatistics": {
+                    "total": 44,
+                    "remuneration": "3.7",
+                    "employability": "3.9",
+                    "jobSatisfaction": "4.1",
+                    "workLifeBalance": "3.9",
+                    "diversityInTasks": "4.1",
+                    "careerProgressionOpportunities": "3.7",
+                    "overtime": {
+                        "never": 27.27272727272727,
+                        "often": 22.727272727272727,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": 25,
+                        "often": 15.909090909090908,
+                        "sometimes": 59.09090909090909
+                    },
+                    "shiftWork": {
+                        "never": 79.54545454545455,
+                        "often": 2.272727272727273,
+                        "sometimes": 18.181818181818183
+                    },
+                    "lateNights": {
+                        "never": 34.090909090909086,
+                        "often": 6.8181818181818175,
+                        "sometimes": 59.09090909090909
+                    },
+                    "workingHoursCount": 44
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 110000
+                },
+                "specReqs": [
+                    {
+                        "label": "Preventive Maintenance"
+                    },
+                    {
+                        "label": "Computerized Maintenance Management System"
+                    },
+                    {
+                        "label": "Workplace Health and Safety"
+                    },
+                    {
+                        "label": "Team Leadership"
+                    },
+                    {
+                        "label": "Problem Solving"
+                    },
+                    {
+                        "label": "Computer Literacy"
+                    },
+                    {
+                        "label": "Communication Skills"
+                    },
+                    {
+                        "label": "Time Management"
+                    },
+                    {
+                        "label": "Resilience"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    }
+                ]
+            },
+            {
+                "id": "management-engineer",
+                "title": "Management Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 135000
+                },
+                "specReqs": [
+                    {
+                        "label": "Standard Operating Environments"
+                    },
+                    {
+                        "label": "Powershell Scripting"
+                    },
+                    {
+                        "label": "Infrastructure Delivery"
+                    },
+                    {
+                        "label": "Roads Infrastructure Projects"
+                    },
+                    {
+                        "label": "Integrated Management Systems"
+                    },
+                    {
+                        "label": "Group Policy"
+                    },
+                    {
+                        "label": "Infrastructure Planning"
+                    },
+                    {
+                        "label": "Requirement Management"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Microsoft System Center Configuration Manager"
+                    }
+                ]
+            },
+            {
+                "id": "management-professional",
+                "title": "Management Professional",
+                "roleReviewStatistics": null,
+                "growth": {
+                    "value": 17.5
+                },
+                "salarySuggestion": {
+                    "salary_median": 122500
+                },
+                "specReqs": [
+                    {
+                        "label": "Carbon Management"
+                    },
+                    {
+                        "label": "Environmental Auditing"
+                    },
+                    {
+                        "label": "Contract Law"
+                    },
+                    {
+                        "label": "Lifecycle Assessment"
+                    },
+                    {
+                        "label": "Environmental Science"
+                    },
+                    {
+                        "label": "Environmental Regulation Services"
+                    },
+                    {
+                        "label": "Contaminated Land"
+                    },
+                    {
+                        "label": "Construction Management"
+                    },
+                    {
+                        "label": "Environmental Management"
+                    },
+                    {
+                        "label": "Electrical Work"
+                    }
+                ]
+            },
+            {
+                "id": "manufacturing-engineer",
+                "title": "Manufacturing Engineer",
+                "roleReviewStatistics": {
+                    "total": 4,
+                    "remuneration": "4.3",
+                    "employability": "3.8",
+                    "jobSatisfaction": "4.5",
+                    "workLifeBalance": "4.3",
+                    "diversityInTasks": "3.8",
+                    "careerProgressionOpportunities": "3.3",
+                    "overtime": {
+                        "never": 25,
+                        "often": 50,
+                        "sometimes": 25
+                    },
+                    "weekends": {
+                        "never": 25,
+                        "often": null,
+                        "sometimes": 75
+                    },
+                    "shiftWork": {
+                        "never": 50,
+                        "often": 25,
+                        "sometimes": 25
+                    },
+                    "lateNights": {
+                        "never": 25,
+                        "often": null,
+                        "sometimes": 75
+                    },
+                    "workingHoursCount": 4
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 102678
+                },
+                "specReqs": [
+                    {
+                        "label": "Manufacturing Engineering"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "Lean Manufacturing"
+                    },
+                    {
+                        "label": "Mechatronics Engineering"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Manufacturing Processes"
+                    },
+                    {
+                        "label": "Six Sigma"
+                    },
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "Industrial Engineering"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    }
+                ]
+            },
+            {
+                "id": "maritime-engineer",
+                "title": "Maritime Engineer",
+                "roleReviewStatistics": {
+                    "total": 4,
+                    "remuneration": "4.8",
+                    "employability": "4.0",
+                    "jobSatisfaction": "4.5",
+                    "workLifeBalance": "4.0",
+                    "diversityInTasks": "4.3",
+                    "careerProgressionOpportunities": "4.3",
+                    "overtime": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 25,
+                        "often": 75,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": 75,
+                        "sometimes": 25
+                    },
+                    "workingHoursCount": 4
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 95000
+                },
+                "specReqs": [
+                    {
+                        "label": "MSIC Card"
+                    },
+                    {
+                        "label": "Maritime Engineering"
+                    },
+                    {
+                        "label": "Marine Automobile Engines"
+                    },
+                    {
+                        "label": "Class 3 Coastal Marine Engineering"
+                    },
+                    {
+                        "label": "Structural Engineering"
+                    },
+                    {
+                        "label": "Safety Management System"
+                    },
+                    {
+                        "label": "Refrigeration"
+                    },
+                    {
+                        "label": "Written Communication"
+                    },
+                    {
+                        "label": "First Aid Certificate"
+                    },
+                    {
+                        "label": "Team Work"
+                    }
+                ]
+            },
+            {
+                "id": "mechanical-engineer",
+                "title": "Mechanical Engineer",
+                "roleReviewStatistics": {
+                    "total": 65,
+                    "remuneration": "3.8",
+                    "employability": "3.9",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "4.0",
+                    "diversityInTasks": "3.9",
+                    "careerProgressionOpportunities": "3.9",
+                    "overtime": {
+                        "never": 19.35483870967742,
+                        "often": 17.741935483870968,
+                        "sometimes": 62.903225806451616
+                    },
+                    "weekends": {
+                        "never": 33.87096774193548,
+                        "often": 14.516129032258066,
+                        "sometimes": 51.61290322580645
+                    },
+                    "shiftWork": {
+                        "never": 64.51612903225806,
+                        "often": 12.903225806451612,
+                        "sometimes": 22.58064516129032
+                    },
+                    "lateNights": {
+                        "never": 45.16129032258064,
+                        "often": 11.29032258064516,
+                        "sometimes": 43.54838709677419
+                    },
+                    "workingHoursCount": 62
+                },
+                "growth": {
+                    "value": 3.1
+                },
+                "salarySuggestion": {
+                    "salary_median": 105000
+                },
+                "specReqs": [
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "Mechanical Design"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Building Services"
+                    },
+                    {
+                        "label": "Finite Element Analysis"
+                    },
+                    {
+                        "label": "Material Handling"
+                    },
+                    {
+                        "label": "Mineral Processing"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    }
+                ]
+            },
+            {
+                "id": "mechatronics-engineer",
+                "title": "Mechatronics Engineer",
+                "roleReviewStatistics": {
+                    "total": 7,
+                    "remuneration": "3.9",
+                    "employability": "4.0",
+                    "jobSatisfaction": "4.3",
+                    "workLifeBalance": "4.1",
+                    "diversityInTasks": "4.1",
+                    "careerProgressionOpportunities": "4.4",
+                    "overtime": {
+                        "never": 14.285714285714285,
+                        "often": 14.285714285714285,
+                        "sometimes": 71.42857142857143
+                    },
+                    "weekends": {
+                        "never": 28.57142857142857,
+                        "often": null,
+                        "sometimes": 71.42857142857143
+                    },
+                    "shiftWork": {
+                        "never": 85.71428571428571,
+                        "often": 14.285714285714285,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 14.285714285714285,
+                        "often": 14.285714285714285,
+                        "sometimes": 71.42857142857143
+                    },
+                    "workingHoursCount": 7
+                },
+                "growth": {
+                    "value": 8.4
+                },
+                "salarySuggestion": {
+                    "salary_median": 92500
+                },
+                "specReqs": [
+                    {
+                        "label": "Mechatronics Engineering"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "C++ Programming"
+                    },
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "Robotics"
+                    },
+                    {
+                        "label": "Control Systems"
+                    },
+                    {
+                        "label": "Mechanical Design"
+                    },
+                    {
+                        "label": "Electrical Design"
+                    },
+                    {
+                        "label": "Electronics Design"
+                    }
+                ]
+            },
+            {
+                "id": "naval-architect",
+                "title": "Naval Architect",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "2.0",
+                    "employability": "3.0",
+                    "jobSatisfaction": "3.0",
+                    "workLifeBalance": "4.0",
+                    "diversityInTasks": "3.0",
+                    "careerProgressionOpportunities": "2.5",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "shiftWork": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": null,
+                "salarySuggestion": null,
+                "specReqs": [
+                    {
+                        "label": "Finite Element Analysis"
+                    },
+                    {
+                        "label": "Technical Drawing"
+                    },
+                    {
+                        "label": "Government Security"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Logical Thinking"
+                    },
+                    {
+                        "label": "Structural Design"
+                    },
+                    {
+                        "label": "Maritime Industry"
+                    },
+                    {
+                        "label": "Systems Design"
+                    },
+                    {
+                        "label": "Requirement Management"
+                    },
+                    {
+                        "label": "Maritime Engineering"
+                    }
+                ]
+            },
+            {
+                "id": "plant-technician",
+                "title": "Plant Technician",
+                "roleReviewStatistics": {
+                    "total": 2,
+                    "remuneration": "2.5",
+                    "employability": "3.0",
+                    "jobSatisfaction": "3.5",
+                    "workLifeBalance": "3.5",
+                    "diversityInTasks": "3.0",
+                    "careerProgressionOpportunities": "3.5",
+                    "overtime": {
+                        "never": null,
+                        "often": 50,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": 50,
+                        "sometimes": 50
+                    },
+                    "shiftWork": {
+                        "never": 50,
+                        "often": 50,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 50,
+                        "often": 50,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 2
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 92499
+                },
+                "specReqs": [
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "SCADA Programming"
+                    },
+                    {
+                        "label": "Fault Finding"
+                    },
+                    {
+                        "label": "Mobile Equipment"
+                    },
+                    {
+                        "label": "Electrical Trade"
+                    },
+                    {
+                        "label": "Heavy Equipment"
+                    },
+                    {
+                        "label": "Hydraulics"
+                    },
+                    {
+                        "label": "Problem Solving"
+                    },
+                    {
+                        "label": "Team Work"
+                    },
+                    {
+                        "label": "Willingness to Learn"
+                    }
+                ]
+            },
+            {
+                "id": "process-engineer",
+                "title": "Process Engineer",
+                "roleReviewStatistics": {
+                    "total": 19,
+                    "remuneration": "3.5",
+                    "employability": "3.4",
+                    "jobSatisfaction": "3.9",
+                    "workLifeBalance": "3.9",
+                    "diversityInTasks": "3.9",
+                    "careerProgressionOpportunities": "3.7",
+                    "overtime": {
+                        "never": 5.263157894736842,
+                        "often": 15.789473684210526,
+                        "sometimes": 78.94736842105263
+                    },
+                    "weekends": {
+                        "never": 31.57894736842105,
+                        "often": null,
+                        "sometimes": 68.42105263157895
+                    },
+                    "shiftWork": {
+                        "never": 57.89473684210527,
+                        "often": 15.789473684210526,
+                        "sometimes": 26.31578947368421
+                    },
+                    "lateNights": {
+                        "never": 47.368421052631575,
+                        "often": null,
+                        "sometimes": 52.63157894736842
+                    },
+                    "workingHoursCount": 19
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 112500
+                },
+                "specReqs": [
+                    {
+                        "label": "Chemical Engineering"
+                    },
+                    {
+                        "label": "Process Engineering"
+                    },
+                    {
+                        "label": "Metallurgy"
+                    },
+                    {
+                        "label": "Mineral Processing"
+                    },
+                    {
+                        "label": "Process Design"
+                    },
+                    {
+                        "label": "Metallurgical Engineering"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Hazop"
+                    },
+                    {
+                        "label": "Process Control"
+                    },
+                    {
+                        "label": "Engineering Design"
+                    }
+                ]
+            },
+            {
+                "id": "process-specialist",
+                "title": "Process Specialist",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 105000
+                },
+                "specReqs": [
+                    {
+                        "label": "Process Mapping"
+                    },
+                    {
+                        "label": "Master Data Management"
+                    },
+                    {
+                        "label": "Data Quality"
+                    },
+                    {
+                        "label": "Business Analysis"
+                    },
+                    {
+                        "label": "ServiceNow"
+                    },
+                    {
+                        "label": "Information Management"
+                    },
+                    {
+                        "label": "Record Management"
+                    },
+                    {
+                        "label": "ERP"
+                    },
+                    {
+                        "label": "ITIL Framework"
+                    },
+                    {
+                        "label": "Commercial Acumen"
+                    }
+                ]
+            },
+            {
+                "id": "project-engineer",
+                "title": "Project Engineer",
+                "roleReviewStatistics": {
+                    "total": 47,
+                    "remuneration": "3.8",
+                    "employability": "3.8",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "3.9",
+                    "diversityInTasks": "4.1",
+                    "careerProgressionOpportunities": "4.1",
+                    "overtime": {
+                        "never": 11.11111111111111,
+                        "often": 26.666666666666668,
+                        "sometimes": 62.22222222222222
+                    },
+                    "weekends": {
+                        "never": 28.888888888888886,
+                        "often": 24.444444444444443,
+                        "sometimes": 46.666666666666664
+                    },
+                    "shiftWork": {
+                        "never": 51.11111111111111,
+                        "often": 4.444444444444445,
+                        "sometimes": 44.44444444444444
+                    },
+                    "lateNights": {
+                        "never": 46.666666666666664,
+                        "often": 11.11111111111111,
+                        "sometimes": 42.22222222222222
+                    },
+                    "workingHoursCount": 45
+                },
+                "growth": {
+                    "value": 10.5
+                },
+                "salarySuggestion": {
+                    "salary_median": 130000
+                },
+                "specReqs": [
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Project Engineering"
+                    },
+                    {
+                        "label": "Construction Management"
+                    },
+                    {
+                        "label": "Civil Construction"
+                    },
+                    {
+                        "label": "Construction Projects"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Microsoft Project"
+                    },
+                    {
+                        "label": "Building Construction"
+                    },
+                    {
+                        "label": "Communication Skills"
+                    },
+                    {
+                        "label": "Commercial Acumen"
+                    }
+                ]
+            },
+            {
+                "id": "protection-engineer",
+                "title": "Protection Engineer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "3.0",
+                    "employability": "4.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "3.0",
+                    "diversityInTasks": "4.0",
+                    "careerProgressionOpportunities": "4.0",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 129999
+                },
+                "specReqs": [
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Power Systems"
+                    },
+                    {
+                        "label": "Electrical Industry"
+                    },
+                    {
+                        "label": "Endpoint Security"
+                    },
+                    {
+                        "label": "Systems Design"
+                    },
+                    {
+                        "label": "Microsoft Active Directory"
+                    },
+                    {
+                        "label": "Infrastructure Engineering"
+                    },
+                    {
+                        "label": "Maintenance Engineering"
+                    },
+                    {
+                        "label": "Scripting Language"
+                    },
+                    {
+                        "label": "Cybersecurity Technologies"
+                    }
+                ]
+            },
+            {
+                "id": "requirements-engineer",
+                "title": "Requirements Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 125000
+                },
+                "specReqs": [
+                    {
+                        "label": "Requirement Management"
+                    },
+                    {
+                        "label": "Systems Engineering"
+                    },
+                    {
+                        "label": "Requirements Engineering"
+                    },
+                    {
+                        "label": "Defence Acquisition"
+                    },
+                    {
+                        "label": "Product Development"
+                    },
+                    {
+                        "label": "Maritime Engineering"
+                    },
+                    {
+                        "label": "UX"
+                    },
+                    {
+                        "label": "Engineering Systems"
+                    },
+                    {
+                        "label": "Aerospace"
+                    },
+                    {
+                        "label": "Verification and Validation"
+                    }
+                ]
+            },
+            {
+                "id": "risk-coordinator",
+                "title": "Risk Coordinator",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "3.0",
+                    "employability": "3.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "4.0",
+                    "diversityInTasks": "2.0",
+                    "careerProgressionOpportunities": "4.0",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 105414
+                },
+                "specReqs": [
+                    {
+                        "label": "Corporate Governance"
+                    },
+                    {
+                        "label": "Incident Management"
+                    },
+                    {
+                        "label": "Industrial Skills"
+                    },
+                    {
+                        "label": "Workplace Health and Safety"
+                    },
+                    {
+                        "label": "AHPRA Registration"
+                    },
+                    {
+                        "label": "Risk Assessment"
+                    },
+                    {
+                        "label": "Quality Improvement"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    },
+                    {
+                        "label": "Report Writing"
+                    },
+                    {
+                        "label": "Interpersonal Sensitivity"
+                    }
+                ]
+            },
+            {
+                "id": "robotics-engineer",
+                "title": "Robotics Engineer",
+                "roleReviewStatistics": null,
+                "growth": {
+                    "value": 5.5
+                },
+                "salarySuggestion": {
+                    "salary_median": 97500
+                },
+                "specReqs": [
+                    {
+                        "label": "C++ Programming"
+                    },
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "Robotics Systems"
+                    },
+                    {
+                        "label": "Mechatronics Engineering"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "Computer Vision"
+                    },
+                    {
+                        "label": "Solidworks"
+                    },
+                    {
+                        "label": "C++ Software"
+                    },
+                    {
+                        "label": "Robotics Engineering"
+                    }
+                ]
+            },
+            {
+                "id": "services-engineer",
+                "title": "Services Engineer",
+                "roleReviewStatistics": {
+                    "total": 4,
+                    "remuneration": "2.8",
+                    "employability": "3.5",
+                    "jobSatisfaction": "3.3",
+                    "workLifeBalance": "3.8",
+                    "diversityInTasks": "3.8",
+                    "careerProgressionOpportunities": "2.3",
+                    "overtime": {
+                        "never": 25,
+                        "often": 25,
+                        "sometimes": 50
+                    },
+                    "weekends": {
+                        "never": 25,
+                        "often": null,
+                        "sometimes": 75
+                    },
+                    "shiftWork": {
+                        "never": 50,
+                        "often": null,
+                        "sometimes": 50
+                    },
+                    "lateNights": {
+                        "never": 25,
+                        "often": null,
+                        "sometimes": 75
+                    },
+                    "workingHoursCount": 4
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 95000
+                },
+                "specReqs": [
+                    {
+                        "label": "Plc Programming"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "Mechatronics"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Hydraulics"
+                    },
+                    {
+                        "label": "Electrical Licence"
+                    },
+                    {
+                        "label": "Microsoft Azure"
+                    },
+                    {
+                        "label": "Computer Science"
+                    },
+                    {
+                        "label": "Autonomy"
+                    }
+                ]
+            },
+            {
+                "id": "shift-technician",
+                "title": "Shift Technician",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "5.0",
+                    "employability": "3.0",
+                    "jobSatisfaction": "2.0",
+                    "workLifeBalance": "2.0",
+                    "diversityInTasks": "4.0",
+                    "careerProgressionOpportunities": "2.0",
+                    "overtime": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": null,
+                        "often": 100,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 109999
+                },
+                "specReqs": [
+                    {
+                        "label": "Computerized Maintenance Management System"
+                    },
+                    {
+                        "label": "Refrigeration"
+                    },
+                    {
+                        "label": "Technical Drawing"
+                    },
+                    {
+                        "label": "Building Services"
+                    },
+                    {
+                        "label": "Air Conditioning"
+                    },
+                    {
+                        "label": "NSW Electrical Licence"
+                    },
+                    {
+                        "label": "Industrial Manufacturing"
+                    },
+                    {
+                        "label": "Trackwork"
+                    },
+                    {
+                        "label": "A Grade Electrical Licence"
+                    },
+                    {
+                        "label": "Data Centres"
+                    }
+                ]
+            },
+            {
+                "id": "signalling-engineer",
+                "title": "Signalling Engineer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "5.0",
+                    "employability": "5.0",
+                    "jobSatisfaction": "5.0",
+                    "workLifeBalance": "5.0",
+                    "diversityInTasks": "5.0",
+                    "careerProgressionOpportunities": "5.0",
+                    "overtime": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 145750
+                },
+                "specReqs": [
+                    {
+                        "label": "Signalling Design"
+                    },
+                    {
+                        "label": "Signalling Principles"
+                    },
+                    {
+                        "label": "Railway Systems"
+                    },
+                    {
+                        "label": "Electronic Engineering"
+                    },
+                    {
+                        "label": "Electrical Engineering"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Microstation"
+                    },
+                    {
+                        "label": "Signalling Systems"
+                    },
+                    {
+                        "label": "Design Practices"
+                    },
+                    {
+                        "label": "Automation Engineering"
+                    }
+                ]
+            },
+            {
+                "id": "site-engineer",
+                "title": "Site Engineer",
+                "roleReviewStatistics": {
+                    "total": 11,
+                    "remuneration": "3.2",
+                    "employability": "3.9",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "3.6",
+                    "diversityInTasks": "3.9",
+                    "careerProgressionOpportunities": "4.0",
+                    "overtime": {
+                        "never": 18.181818181818183,
+                        "often": 63.63636363636363,
+                        "sometimes": 18.181818181818183
+                    },
+                    "weekends": {
+                        "never": 9.090909090909092,
+                        "often": 45.45454545454545,
+                        "sometimes": 45.45454545454545
+                    },
+                    "shiftWork": {
+                        "never": 45.45454545454545,
+                        "often": 27.27272727272727,
+                        "sometimes": 27.27272727272727
+                    },
+                    "lateNights": {
+                        "never": 9.090909090909092,
+                        "often": 18.181818181818183,
+                        "sometimes": 72.72727272727273
+                    },
+                    "workingHoursCount": 11
+                },
+                "growth": {
+                    "value": 10.2
+                },
+                "salarySuggestion": {
+                    "salary_median": 105000
+                },
+                "specReqs": [
+                    {
+                        "label": "Construction Management"
+                    },
+                    {
+                        "label": "Civil Infrastructure"
+                    },
+                    {
+                        "label": "Construction Projects"
+                    },
+                    {
+                        "label": "Earthworks"
+                    },
+                    {
+                        "label": "Civil Construction"
+                    },
+                    {
+                        "label": "Building Construction"
+                    },
+                    {
+                        "label": "Civil Projects"
+                    },
+                    {
+                        "label": "Road Works"
+                    },
+                    {
+                        "label": "Construction Induction White Card"
+                    },
+                    {
+                        "label": "Communication Skills"
+                    }
+                ]
+            },
+            {
+                "id": "specialist-representative",
+                "title": "Specialist Representative",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 109999
+                },
+                "specReqs": [
+                    {
+                        "label": "Pharmaceutical Sales"
+                    },
+                    {
+                        "label": "Dietetics"
+                    },
+                    {
+                        "label": "Biologics"
+                    },
+                    {
+                        "label": "Pharmacy Sales"
+                    },
+                    {
+                        "label": "General Practice"
+                    },
+                    {
+                        "label": "Commercial Acumen"
+                    },
+                    {
+                        "label": "Industry Knowledge"
+                    },
+                    {
+                        "label": "Business Analytics"
+                    },
+                    {
+                        "label": "Solutions Focused"
+                    },
+                    {
+                        "label": "Negotiation"
+                    }
+                ]
+            },
+            {
+                "id": "stakeholder-manager",
+                "title": "Stakeholder Manager",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": null,
+                "specReqs": [
+                    {
+                        "label": "Community Engagement"
+                    },
+                    {
+                        "label": "Stakeholder Management"
+                    },
+                    {
+                        "label": "Journalism"
+                    },
+                    {
+                        "label": "Civil Construction"
+                    },
+                    {
+                        "label": "Digital Communications"
+                    },
+                    {
+                        "label": "Event Management"
+                    },
+                    {
+                        "label": "Financial Services Industry"
+                    },
+                    {
+                        "label": "Project Management"
+                    },
+                    {
+                        "label": "Leadership"
+                    },
+                    {
+                        "label": "Results Focused"
+                    }
+                ]
+            },
+            {
+                "id": "stormwater-engineer",
+                "title": "Stormwater Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 92499
+                },
+                "specReqs": [
+                    {
+                        "label": "Stormwater"
+                    },
+                    {
+                        "label": "Hydrology"
+                    },
+                    {
+                        "label": "Hydraulics"
+                    },
+                    {
+                        "label": "Hec-Ras"
+                    },
+                    {
+                        "label": "Drainage Design"
+                    },
+                    {
+                        "label": "Hydraulic Modelling"
+                    },
+                    {
+                        "label": "Urban Design"
+                    },
+                    {
+                        "label": "Environmental Engineering"
+                    },
+                    {
+                        "label": "QGIS"
+                    },
+                    {
+                        "label": "Report Writing"
+                    }
+                ]
+            },
+            {
+                "id": "structural-engineer",
+                "title": "Structural Engineer",
+                "roleReviewStatistics": {
+                    "total": 23,
+                    "remuneration": "3.4",
+                    "employability": "3.6",
+                    "jobSatisfaction": "3.9",
+                    "workLifeBalance": "3.8",
+                    "diversityInTasks": "3.4",
+                    "careerProgressionOpportunities": "3.7",
+                    "overtime": {
+                        "never": 8.695652173913043,
+                        "often": 13.043478260869565,
+                        "sometimes": 78.26086956521739
+                    },
+                    "weekends": {
+                        "never": 43.47826086956522,
+                        "often": 8.695652173913043,
+                        "sometimes": 47.82608695652174
+                    },
+                    "shiftWork": {
+                        "never": 78.26086956521739,
+                        "often": null,
+                        "sometimes": 21.73913043478261
+                    },
+                    "lateNights": {
+                        "never": 34.78260869565217,
+                        "often": 13.043478260869565,
+                        "sometimes": 52.17391304347826
+                    },
+                    "workingHoursCount": 23
+                },
+                "growth": {
+                    "value": 13.4
+                },
+                "salarySuggestion": {
+                    "salary_median": 100000
+                },
+                "specReqs": [
+                    {
+                        "label": "Spacegass"
+                    },
+                    {
+                        "label": "Structural Design"
+                    },
+                    {
+                        "label": "Etabs"
+                    },
+                    {
+                        "label": "Strand 7"
+                    },
+                    {
+                        "label": "Australian Standards"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Structural Analysis"
+                    },
+                    {
+                        "label": "Reinforced Concrete"
+                    },
+                    {
+                        "label": "Structural Engineering Design"
+                    }
+                ]
+            },
+            {
+                "id": "study-manager",
+                "title": "Study Manager",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 212500
+                },
+                "specReqs": [
+                    {
+                        "label": "Metallurgy"
+                    },
+                    {
+                        "label": "Mineral Processing"
+                    },
+                    {
+                        "label": "Project Development"
+                    },
+                    {
+                        "label": "Processing Plant Duties"
+                    },
+                    {
+                        "label": "Cost Estimation"
+                    },
+                    {
+                        "label": "Resources Industry"
+                    },
+                    {
+                        "label": "Economic Modelling"
+                    },
+                    {
+                        "label": "Mining Industry"
+                    },
+                    {
+                        "label": "Business Case Development"
+                    },
+                    {
+                        "label": "Mine Planning"
+                    }
+                ]
+            },
+            {
+                "id": "surveillance-officer",
+                "title": "Surveillance Officer",
+                "roleReviewStatistics": {
+                    "total": 1,
+                    "remuneration": "5.0",
+                    "employability": "4.0",
+                    "jobSatisfaction": "4.0",
+                    "workLifeBalance": "5.0",
+                    "diversityInTasks": "3.0",
+                    "careerProgressionOpportunities": "4.0",
+                    "overtime": {
+                        "never": null,
+                        "often": null,
+                        "sometimes": 100
+                    },
+                    "weekends": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "workingHoursCount": 1
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 95958
+                },
+                "specReqs": [
+                    {
+                        "label": "Civil Construction"
+                    },
+                    {
+                        "label": "Contract Documentation"
+                    },
+                    {
+                        "label": "Entomology"
+                    },
+                    {
+                        "label": "Plant Pathology"
+                    },
+                    {
+                        "label": "Trade Supervision"
+                    },
+                    {
+                        "label": "Underground Construction"
+                    },
+                    {
+                        "label": "Document Management"
+                    },
+                    {
+                        "label": "Negotiation"
+                    },
+                    {
+                        "label": "Construction Trade"
+                    },
+                    {
+                        "label": "Infrastructure Construction"
+                    }
+                ]
+            },
+            {
+                "id": "systems-engineer",
+                "title": "Systems Engineer",
+                "roleReviewStatistics": {
+                    "total": 34,
+                    "remuneration": "3.5",
+                    "employability": "3.8",
+                    "jobSatisfaction": "3.8",
+                    "workLifeBalance": "3.9",
+                    "diversityInTasks": "3.9",
+                    "careerProgressionOpportunities": "3.6",
+                    "overtime": {
+                        "never": 14.705882352941178,
+                        "often": 8.823529411764707,
+                        "sometimes": 76.47058823529412
+                    },
+                    "weekends": {
+                        "never": 32.35294117647059,
+                        "often": 14.705882352941178,
+                        "sometimes": 52.94117647058824
+                    },
+                    "shiftWork": {
+                        "never": 73.52941176470588,
+                        "often": 2.941176470588235,
+                        "sometimes": 23.52941176470588
+                    },
+                    "lateNights": {
+                        "never": 29.411764705882355,
+                        "often": 2.941176470588235,
+                        "sometimes": 67.64705882352942
+                    },
+                    "workingHoursCount": 34
+                },
+                "growth": {
+                    "value": 22.2
+                },
+                "salarySuggestion": {
+                    "salary_median": 116325
+                },
+                "specReqs": [
+                    {
+                        "label": "Systems Engineering"
+                    },
+                    {
+                        "label": "VMware"
+                    },
+                    {
+                        "label": "Microsoft Office 365"
+                    },
+                    {
+                        "label": "Microsoft Azure"
+                    },
+                    {
+                        "label": "Microsoft Active Directory"
+                    },
+                    {
+                        "label": "Microsoft Windows Server"
+                    },
+                    {
+                        "label": "Microsoft Hyper V"
+                    },
+                    {
+                        "label": "AWS"
+                    },
+                    {
+                        "label": "Requirement Management"
+                    },
+                    {
+                        "label": "Powershell Programming"
+                    }
+                ]
+            },
+            {
+                "id": "technical-manager",
+                "title": "Technical Manager",
+                "roleReviewStatistics": {
+                    "total": 3,
+                    "remuneration": "4.7",
+                    "employability": "4.7",
+                    "jobSatisfaction": "4.7",
+                    "workLifeBalance": "4.7",
+                    "diversityInTasks": "4.3",
+                    "careerProgressionOpportunities": "4.3",
+                    "overtime": {
+                        "never": null,
+                        "often": 33.33333333333333,
+                        "sometimes": 66.66666666666666
+                    },
+                    "weekends": {
+                        "never": null,
+                        "often": 33.33333333333333,
+                        "sometimes": 66.66666666666666
+                    },
+                    "shiftWork": {
+                        "never": 66.66666666666666,
+                        "often": null,
+                        "sometimes": 33.33333333333333
+                    },
+                    "lateNights": {
+                        "never": 33.33333333333333,
+                        "often": 33.33333333333333,
+                        "sometimes": 33.33333333333333
+                    },
+                    "workingHoursCount": 3
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 135000
+                },
+                "specReqs": [
+                    {
+                        "label": "Technical Aptitude"
+                    },
+                    {
+                        "label": "Leadership"
+                    },
+                    {
+                        "label": "Problem Solving"
+                    },
+                    {
+                        "label": "Customer Service"
+                    },
+                    {
+                        "label": "Analytical Thinking"
+                    },
+                    {
+                        "label": "Microsoft Office"
+                    },
+                    {
+                        "label": "Communication Skills"
+                    },
+                    {
+                        "label": "Computer Literacy"
+                    },
+                    {
+                        "label": "Time Management"
+                    },
+                    {
+                        "label": "Organised"
+                    }
+                ]
+            },
+            {
+                "id": "technology-analyst",
+                "title": "Technology Analyst",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 93026
+                },
+                "specReqs": [
+                    {
+                        "label": "Software Integration"
+                    },
+                    {
+                        "label": "Information Technology"
+                    },
+                    {
+                        "label": "Computer Hardware"
+                    },
+                    {
+                        "label": "Network Systems"
+                    },
+                    {
+                        "label": "Enterprise Systems"
+                    },
+                    {
+                        "label": "Systems Design"
+                    },
+                    {
+                        "label": "Computer Science"
+                    },
+                    {
+                        "label": "Microsoft Products"
+                    },
+                    {
+                        "label": "Python Programming"
+                    },
+                    {
+                        "label": "Technical Documentation"
+                    }
+                ]
+            },
+            {
+                "id": "track-engineer",
+                "title": "Track Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 145000
+                },
+                "specReqs": [
+                    {
+                        "label": "Microstation"
+                    },
+                    {
+                        "label": "Rail Infrastructure Projects"
+                    },
+                    {
+                        "label": "Railway Infrastructure"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Railway Engineering"
+                    },
+                    {
+                        "label": "Track Maintenance"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "AutoCAD"
+                    },
+                    {
+                        "label": "Construction Engineering"
+                    },
+                    {
+                        "label": "Detailed Design"
+                    }
+                ]
+            },
+            {
+                "id": "water-engineer",
+                "title": "Water Engineer",
+                "roleReviewStatistics": {
+                    "total": 3,
+                    "remuneration": "3.7",
+                    "employability": "4.0",
+                    "jobSatisfaction": "4.3",
+                    "workLifeBalance": "4.3",
+                    "diversityInTasks": "3.7",
+                    "careerProgressionOpportunities": "4.3",
+                    "overtime": {
+                        "never": 33.33333333333333,
+                        "often": null,
+                        "sometimes": 66.66666666666666
+                    },
+                    "weekends": {
+                        "never": 33.33333333333333,
+                        "often": null,
+                        "sometimes": 66.66666666666666
+                    },
+                    "shiftWork": {
+                        "never": 100,
+                        "often": null,
+                        "sometimes": null
+                    },
+                    "lateNights": {
+                        "never": 33.33333333333333,
+                        "often": null,
+                        "sometimes": 66.66666666666666
+                    },
+                    "workingHoursCount": 3
+                },
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 108500
+                },
+                "specReqs": [
+                    {
+                        "label": "Environmental Engineering"
+                    },
+                    {
+                        "label": "Civil Engineering"
+                    },
+                    {
+                        "label": "Stormwater"
+                    },
+                    {
+                        "label": "Water Engineering"
+                    },
+                    {
+                        "label": "Water Infrastructure Projects"
+                    },
+                    {
+                        "label": "Hydraulics"
+                    },
+                    {
+                        "label": "Hydraulic Modelling"
+                    },
+                    {
+                        "label": "Hec-Ras"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Detailed Design"
+                    }
+                ]
+            },
+            {
+                "id": "works-engineer",
+                "title": "Works Engineer",
+                "roleReviewStatistics": null,
+                "growth": null,
+                "salarySuggestion": {
+                    "salary_median": 109999
+                },
+                "specReqs": [
+                    {
+                        "label": "Civil Projects"
+                    },
+                    {
+                        "label": "Excavation"
+                    },
+                    {
+                        "label": "Highway Engineering"
+                    },
+                    {
+                        "label": "RPEQ Registration"
+                    },
+                    {
+                        "label": "Subdivision"
+                    },
+                    {
+                        "label": "Mechanical Engineering"
+                    },
+                    {
+                        "label": "Conflict Resolution"
+                    },
+                    {
+                        "label": "Stormwater"
+                    },
+                    {
+                        "label": "Technical Documentation"
+                    },
+                    {
+                        "label": "Project Management"
+                    }
+                ]
+            }
+        ]
+    }
+}
