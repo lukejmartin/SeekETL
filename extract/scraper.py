@@ -24,9 +24,12 @@ class Category:
         # Pattern match the job title at the end of the URL string.
         extract_id = lambda url: re.search(r'[^/]+$', url).group(0)
 
-        tags = soup.find_all(attrs={'data-analytics-action': 'Click - Role card'})      
-        self.job_ids = [extract_id(tag['href']) for tag in tags]
+        tags = soup.find_all(attrs={'data-analytics-action': 'Click - Role card'})    
+        # If no tags are found.
+        if not tags:
+            raise ValueError('No job ids found with the specified attributes {"data-analytics-action"; "Click - Role card"}')
 
+        self.job_ids = [extract_id(tag['href']) for tag in tags]
 
 @dataclass
 class Industry(Category):
@@ -63,18 +66,20 @@ class WebScraper:
         Returns:
             List of Category objects.
         """
-        tags = soup.find(attrs={'name': attr_name}).find_all(attrs={'class': '_1frdw130'})
-        if not tags:
-            raise AttributeError(f'Attribute {attr_name} or class "_1frdw131" not found. Check soup parsing code.')
-        
-        title = lambda tag: tag.get_text()
-        url = lambda tag: self.base_url + tag['href']
+        try:
+            tags = soup.find(attrs={'name': attr_name}).find_all(attrs={'class': '_1frdw130'})
+            title = lambda tag: tag.get_text()
+            url = lambda tag: self.base_url + tag['href']
 
-        return [
-            category(title=title(tag), url=url(tag))
-            for tag in tags
-        ]
-    
+            return [
+                category(title=title(tag), url=url(tag))
+                for tag in tags
+            ]
+        
+        except AttributeError as e:
+            print('Could not extract tags.')
+            raise AttributeError
+        
     def get_themes(self, soup: BeautifulSoup) -> list[Theme]:
         """Return list of theme objects."""
         return self._get_categories(soup=soup, attr_name='browseByThemes', category=Theme)
